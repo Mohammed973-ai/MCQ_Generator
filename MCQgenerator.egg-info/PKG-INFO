@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: MCQgenerator
+Version: 0.0.1
+Author: Mohammed Waseem
+Author-email: mhamedwaseem2001@gmail.com
+Requires-Dist: Groq
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: pandas
+Requires-Dist: langchain-groq
+Requires-Dist: langchain_community
+Requires-Dist: langchain_groq
+Requires-Dist: traceback
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

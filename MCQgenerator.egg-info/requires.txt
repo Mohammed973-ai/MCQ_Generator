@@ -4,8 +4,7 @@ streamlit
 python-dotenv
 PyPDF2
 pandas
-langchain_groq
+langchain-groq
 langchain_community
+langchain_groq
 traceback
-
--e .
