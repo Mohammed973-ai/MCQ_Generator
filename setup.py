@@ -14,8 +14,7 @@ setup(
         "pandas",
         "langchain-groq",
         "langchain_community",
-        "langchain_groq",
-        "traceback"
+        "langchain_groq"
     ],
     packages=find_packages()
 )
